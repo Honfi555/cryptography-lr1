@@ -1,7 +1,9 @@
 [project]
 name = "lr1"
 version = "0.1.0"
-description = "Cryptography scripts for lr 1: caesar cipher"
+description = "Cryptography scripts for lr 1: caesar cipher, linear cipher and "
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "python-dotenv>=1.1.1",
+]
