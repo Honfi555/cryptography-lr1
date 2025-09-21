@@ -38,11 +38,14 @@
 
 ## Режим запуска
 ```bash
+    source ./venv/bin/activate
     python3 caesar_cipher.py
 ```
 ```bash
+    source ./venv/bin/activate
     python3 linear_cipher.py
 ```
 ```bash
+    source ./venv/bin/activate
     python3 permutation_cipher.py
 ```
