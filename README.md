@@ -10,7 +10,7 @@
 ## Переменные среды
 Для создания .env файла выполните команду:
 ```bash
-  cp .env.example .env
+    cp .env.example .env
 ```
 
 ### Общие
@@ -32,8 +32,8 @@
 Для хранения зависимостей используются файлы pyproject.toml и uv.lock
 Установка зависимостей и настройка виртуального окружения:
 ```bash
-  pip install uv
-  uv sync
+    pip install uv
+    uv sync
 ```
 
 ## Режим запуска
